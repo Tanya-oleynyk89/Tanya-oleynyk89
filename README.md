@@ -1,16 +1,23 @@
-## Hi there 👋
+ 👋 Hi, I'm Tanya Oleynyk
 
-<!--
-**Tanya-oleynyk89/Tanya-oleynyk89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌍 Global AI & Tech Talent Acquisition Expert
 
-Here are some ideas to get you started:
+I'm a Senior Global Tech Recruiter with 14+ years of experience in IT recruitment and 300+ successful placements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I connect exceptional engineering talent with exciting career opportunities across the US and global markets.
+
+🚀 My Specializations
+- 🤖 AI & Generative AI
+- 🐍 Python & Backend Engineering
+- ☁️ Cloud & DevOps
+- 📊 Data Engineering & Architecture
+- 💻 Software Engineering
+- 👥 Tech Leads & Solution Architects
+
+ 🌎 Global Talent Acquisition
+USA | Canada | Europe | LATAM | APAC
+
+ 💼 Open to New Opportunities?
+I'm always happy to connect with talented engineers, technical leaders, and architects.
+
+📩 [Connect with me on LinkedIn](https://www.linkedin.com/in/tanyaoleynyk/)
